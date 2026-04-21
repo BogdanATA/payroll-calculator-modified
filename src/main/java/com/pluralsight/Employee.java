@@ -18,10 +18,6 @@ public class Employee {
         return employeeId;
     }
 
-    public void setEmployeeId(int employeeId) {
-        this.employeeId = employeeId;
-    }
-
     public String getName() {
         return name;
     }
